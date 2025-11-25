@@ -1,7 +1,7 @@
 import socket, json, shutil, os
 
 HOST = "0.0.0.0"
-PORT = 4444
+PORT = ....
 MSG_DELIM = "\n"
 
 # Colors
