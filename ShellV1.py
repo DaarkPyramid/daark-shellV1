@@ -2,8 +2,8 @@ import socket, json
 import subprocess
 import os
 
-HOST = "food-ht.gl.at.ply.gg"
-PORT = 44407
+HOST = "........"
+PORT = ....
 MSG_DELIM = "\n"
 
 
@@ -102,3 +102,4 @@ def main_loop():
 
 if __name__ == "__main__":
     main_loop()
+
